@@ -1,0 +1,15 @@
+{
+  "name": "mocha-sample",
+  "version": "1.0.0",
+  "description": "sample testcase",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "DJ (Dhananjayan)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
